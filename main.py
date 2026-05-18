@@ -2,7 +2,6 @@ import asyncio
 import csv
 import os
 from datetime import datetime
-
 import ccxt
 import pandas as pd
 import ta
