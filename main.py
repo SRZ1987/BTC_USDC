@@ -12,6 +12,7 @@ from dotenv import load_dotenv
 # CONFIG
 # =========================
 
+
 SYMBOL = 'BTC/USDC:USDC'
 TIMEFRAME = '5m'
 CANDLE_LIMIT = 200
